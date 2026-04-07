@@ -21,6 +21,7 @@ export const Header = () => {
                 </div>
                 <div className="font-semibold hover:bg-gray-300 p-2 hover:text-black">
                     <Link to="/faq">FAQ</Link>
+                    <Link to="/faq">FAQ</Link>
                 </div>
             </div>
 
